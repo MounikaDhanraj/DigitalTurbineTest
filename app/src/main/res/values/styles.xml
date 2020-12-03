@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textRegular">
+    <item name="android:textSize">@dimen/text_m</item>
+    </style>
+
+    <style name="textRating">
+        <item name="android:textSize">@dimen/text_m</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorPrice</item>
+    </style>
+
+    <style name="textHeader">
+        <item name="android:textSize">@dimen/text_l</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>

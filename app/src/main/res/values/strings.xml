@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DigitalTurbineTest</string>
+
+    <string name="dialog_title">Error</string>
+    <string name="dialog_errormessage">No Inter Connection.Try again</string>
+    <string name="dialog_button">OK</string>
+
+</resources>
